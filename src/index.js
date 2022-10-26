@@ -7,7 +7,6 @@ import reportWebVitals from './reportWebVitals';
 import { store } from './app/store';
 import LoginPage from "./containers/LoginPage";
 import RegisterPage from "./containers/RegisterPage";
-import ProtectedComponent from './components/ProtectedComponent';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
