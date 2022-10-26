@@ -1,19 +1,19 @@
-# DTS REA4 Final Project
+# Video Dokumentasi
 
 Ketentuan lengkap bisa dilihat di [Final Project Guidelines](https://docs.google.com/document/d/122KyWNQ4xxU4aFwWbM4vIfH7LM4AH2CZEZa3YsEHjCk). 
 
-## Daftar pair
+## Link Live App
 
-Tugas dikerjakan secara berpasangan, untuk daftar kelompok bisa dilihat pada masing-masing Classroom atau Discord Class.
+Link app: 
 
-## Fork and Clone
+## Tentang Project
 
-Mohon perwakilan dari pair bisa melakukan fork repo ini dan clone, untuk repositori yang di fork menggunakan penamaan:
+Perkenalankan Saya Arief Givar Prasetya dengan nomor pair 13. Project ini dibuat oleh saya sendiri karena pair saya tidak aktif.
+Project yang saya buat ini menggunakan tema Berita/News. Project ini menggunakan API dari https://www.thenewsapi.com/. Menggunakan Firebase sebagai authenticationnya. Untuk desain yang saya buat menggunakan Material-ui. 
+Fitur yang tersedia pada project ini antara lain:
+1. Register
+2. Login
+3. Fetch data berita dari API  
 
-`dts4[a/b/c]-[nomor pair]-final`
-
-Contoh: `dts4a-01-final`
-
-## Branching, commit
-
-Branch dapat sesuai dengan kebutuhan dan kesepakatan bersama dalam pair, namun hasil akhirnya harus di merge ke branch `main` dan di push ke Github. Pastikan hasil akhir kode sudah ter-push!
+## Video Demo App
+https://gfycat.com/happyimpressiveazurevase
