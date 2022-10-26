@@ -4,7 +4,7 @@ Ketentuan lengkap bisa dilihat di [Final Project Guidelines](https://docs.google
 
 ## Link Live App
 
-Link app: 
+Link app: https://dts4a-13-final.netlify.app/
 
 ## Tentang Project
 
